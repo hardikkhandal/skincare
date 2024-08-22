@@ -1,0 +1,68 @@
+.footer-background {
+  height: 50vh;
+  object-fit: contain;
+}
+
+.footer-description {
+  
+  margin-inline: 10vw;
+  font-size: 2vw;
+  margin-top: 20px;
+  font-weight: 500;
+}
+
+.footer-text {
+  margin: auto;
+  font-size: 1vw;
+  margin-top: 20px;
+  margin-inline: 10vw;
+  font-weight: 300;
+}
+
+.footer-title {
+  
+  margin-inline: 10vw;
+  padding-top: 80px;
+  font-size: 1vw;
+  color: #0344cf;
+  letter-spacing: 0.15rem;
+  font-weight: 600;
+}
+.footer-right {
+  height: 80vh;
+  position: relative;
+  background-color: white;
+  width: 50vw;
+  overflow: hidden;
+  background-color: transparent;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.footer-left {
+  height: auto;
+  position: relative;
+  background-color: white;
+  width: 50vw;
+  background-color: transparent;
+}
+
+.footer-main {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: transparent;
+}
+
+.footer-brands
+{
+  font-size: 2vw;
+  display: flex;
+}
+
+.footer-brand-item
+{
+  margin: 1vw;
+}

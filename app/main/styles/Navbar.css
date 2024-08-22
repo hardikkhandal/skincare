@@ -1,0 +1,19 @@
+.navbar-main
+{
+    height: 8vh;
+    background-color: #6063ff;
+    border-bottom: 1px solid #f3eaea;
+    width: 100%;
+    color: #f3eaeae0;
+    font-size: 5vh;
+    padding-left: 3vw;
+    border-color: white;
+    display: flex;
+    position: absolute;
+}
+
+.navbar-profile
+{
+    text-align: right;
+}
+
